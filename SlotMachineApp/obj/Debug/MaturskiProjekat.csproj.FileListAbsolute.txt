@@ -1,0 +1,83 @@
+c:\users\sotra\documents\visual studio 2017\Projects\MaturskiProjekat\bin\Debug\MaturskiProjekat.exe.config
+c:\users\sotra\documents\visual studio 2017\Projects\MaturskiProjekat\bin\Debug\MaturskiProjekat.exe
+c:\users\sotra\documents\visual studio 2017\Projects\MaturskiProjekat\bin\Debug\MaturskiProjekat.pdb
+c:\users\sotra\documents\visual studio 2017\Projects\MaturskiProjekat\obj\Debug\MaturskiProjekat.csprojResolveAssemblyReference.cache
+c:\users\sotra\documents\visual studio 2017\Projects\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form1.resources
+c:\users\sotra\documents\visual studio 2017\Projects\MaturskiProjekat\obj\Debug\MaturskiProjekat.Properties.Resources.resources
+c:\users\sotra\documents\visual studio 2017\Projects\MaturskiProjekat\obj\Debug\MaturskiProjekat.csproj.GenerateResource.Cache
+c:\users\sotra\documents\visual studio 2017\Projects\MaturskiProjekat\obj\Debug\MaturskiProjekat.exe
+c:\users\sotra\documents\visual studio 2017\Projects\MaturskiProjekat\obj\Debug\MaturskiProjekat.pdb
+C:\Users\Sotra\documents\visual studio 2017\Projects\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form2.resources
+C:\Users\Sotra\documents\visual studio 2017\Projects\MaturskiProjekat\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sotra\documents\visual studio 2017\Projects\MaturskiProjekat\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sotra\documents\visual studio 2017\Projects\MaturskiProjekat\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sotra\documents\visual studio 2017\Projects\MaturskiProjekat\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sotra\documents\visual studio 2017\Projects\MaturskiProjekat\obj\Debug\MaturskiProjekat.csproj.ResolveComReference.cache
+C:\Users\Sotra\documents\visual studio 2017\Projects\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form3.resources
+C:\Users\Sotra\documents\visual studio 2017\Projects\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form4.resources
+C:\Users\Sotra\documents\visual studio 2017\Projects\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form5.resources
+C:\Users\Sotra\documents\visual studio 2017\Projects\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form6.resources
+C:\Users\Sotra\documents\visual studio 2017\Projects\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form7.resources
+E:\MaturskiProjekat\bin\Debug\MaturskiProjekat.exe.config
+E:\MaturskiProjekat\bin\Debug\MaturskiProjekat.exe
+E:\MaturskiProjekat\obj\Debug\MaturskiProjekat.csprojAssemblyReference.cache
+E:\MaturskiProjekat\obj\Debug\Interop.WMPLib.dll
+E:\MaturskiProjekat\obj\Debug\AxInterop.WMPLib.dll
+E:\MaturskiProjekat\obj\Debug\MaturskiProjekat.csproj.ResolveComReference.cache
+E:\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form1.resources
+E:\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form2.resources
+E:\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form3.resources
+E:\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form4.resources
+E:\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form5.resources
+E:\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form6.resources
+E:\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form7.resources
+E:\MaturskiProjekat\obj\Debug\MaturskiProjekat.Properties.Resources.resources
+E:\MaturskiProjekat\obj\Debug\MaturskiProjekat.csproj.GenerateResource.cache
+E:\MaturskiProjekat\obj\Debug\MaturskiProjekat.csproj.CoreCompileInputs.cache
+E:\MaturskiProjekat\obj\Debug\MaturskiProjekat.exe
+E:\MaturskiProjekat\obj\Debug\MaturskiProjekat.pdb
+E:\MaturskiProjekat\bin\Debug\MaturskiProjekat.pdb
+E:\MaturskiProjekat\bin\Debug\Interop.WMPLib.dll
+E:\MaturskiProjekat\bin\Debug\AxInterop.WMPLib.dll
+G:\MaturskiProjekat\bin\Debug\MaturskiProjekat.exe.config
+G:\MaturskiProjekat\bin\Debug\MaturskiProjekat.exe
+G:\MaturskiProjekat\bin\Debug\MaturskiProjekat.pdb
+G:\MaturskiProjekat\bin\Debug\Interop.WMPLib.dll
+G:\MaturskiProjekat\bin\Debug\AxInterop.WMPLib.dll
+G:\MaturskiProjekat\obj\Debug\MaturskiProjekat.csprojResolveAssemblyReference.cache
+G:\MaturskiProjekat\obj\Debug\Interop.WMPLib.dll
+G:\MaturskiProjekat\obj\Debug\AxInterop.WMPLib.dll
+G:\MaturskiProjekat\obj\Debug\MaturskiProjekat.csproj.ResolveComReference.cache
+G:\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form1.resources
+G:\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form2.resources
+G:\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form3.resources
+G:\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form4.resources
+G:\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form5.resources
+G:\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form6.resources
+G:\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form7.resources
+G:\MaturskiProjekat\obj\Debug\MaturskiProjekat.Properties.Resources.resources
+G:\MaturskiProjekat\obj\Debug\MaturskiProjekat.csproj.GenerateResource.Cache
+G:\MaturskiProjekat\obj\Debug\MaturskiProjekat.exe
+G:\MaturskiProjekat\obj\Debug\MaturskiProjekat.pdb
+C:\Users\WIN 10\Desktop\MaturskiProjekat\bin\Debug\MaturskiProjekat.exe.config
+C:\Users\WIN 10\Desktop\MaturskiProjekat\bin\Debug\MaturskiProjekat.exe
+C:\Users\WIN 10\Desktop\MaturskiProjekat\bin\Debug\MaturskiProjekat.pdb
+C:\Users\WIN 10\Desktop\MaturskiProjekat\bin\Debug\Interop.WMPLib.dll
+C:\Users\WIN 10\Desktop\MaturskiProjekat\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\WIN 10\Desktop\MaturskiProjekat\obj\Debug\MaturskiProjekat.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Desktop\MaturskiProjekat\obj\Debug\MaturskiProjekat.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN 10\Desktop\MaturskiProjekat\obj\Debug\Interop.WMPLib.dll
+C:\Users\WIN 10\Desktop\MaturskiProjekat\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\WIN 10\Desktop\MaturskiProjekat\obj\Debug\MaturskiProjekat.csproj.ResolveComReference.cache
+C:\Users\WIN 10\Desktop\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form1.resources
+C:\Users\WIN 10\Desktop\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form2.resources
+C:\Users\WIN 10\Desktop\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form3.resources
+C:\Users\WIN 10\Desktop\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form4.resources
+C:\Users\WIN 10\Desktop\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form5.resources
+C:\Users\WIN 10\Desktop\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form6.resources
+C:\Users\WIN 10\Desktop\MaturskiProjekat\obj\Debug\MaturskiProjekat.Form7.resources
+C:\Users\WIN 10\Desktop\MaturskiProjekat\obj\Debug\MaturskiProjekat.Properties.Resources.resources
+C:\Users\WIN 10\Desktop\MaturskiProjekat\obj\Debug\MaturskiProjekat.csproj.GenerateResource.cache
+C:\Users\WIN 10\Desktop\MaturskiProjekat\obj\Debug\MaturskiProjekat.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Desktop\MaturskiProjekat\obj\Debug\MaturskiProjekat.exe
+C:\Users\WIN 10\Desktop\MaturskiProjekat\obj\Debug\MaturskiProjekat.pdb
